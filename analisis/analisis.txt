@@ -1,0 +1,16 @@
+Tiene cuenta creada? (y/N)
+
+	yes: 	introduzca email
+			introduzca clave
+			tiene personajes?
+
+				yes:
+						lista personajes						
+				no:		crear personaje				
+
+	no:
+			crear cuenta
+			crear clave
+			crear personaje
+
+elige personaje y entra el juego

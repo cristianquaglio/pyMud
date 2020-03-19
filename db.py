@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 import psycopg2
 import config
 
@@ -18,7 +16,7 @@ class DB:
     def __connect__():
         conn = None
         try:
-            params = config.read_params()
+            params = config.read_params('config/main.ini', 'data_source')
             conn = psycopg2.connect(**params)
         except (Exception, psycopg2.DatabaseError) as error:
             print(error)

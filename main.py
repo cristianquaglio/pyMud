@@ -1,7 +1,9 @@
 from models.player import Player
-import config
+from app import App
 
 p = Player('Aragorn', 'Elf', 'Wizard', 10)
 print(p)
-lang = config.read_language()
-print(lang['language'])
+lang = App.get_language()
+ds = App.get_db_params()
+print(lang)
+print(ds)

@@ -1,0 +1,217 @@
+ 
+.                                       ,   ,
+                                        $,  $,     ,
+                                        "ss.$ss. .s'
+                                ,     .ss$$$$$$$$$$s,
+                                $. s$$$$$$$$$$$$$$`$$Ss
+                                "$$$$$$$$$$$$$$$$$$o$$$       ,
+                               s$$$$$$$$$$$$$$$$$$$$$$$$s,  ,s
+                              s$$$$$$$$$"$$$$$$""""$$$$$$"$$$$$,
+                              s$$$$$$$$$$s""$$$$ssssss"$$$$$$$$"
+                             s$$$$$$$$$$'         `"""ss"$"$s""
+                             s$$$$$$$$$$,              `"""""$  .s$$s
+                             s$$$$$$$$$$$$s,...               `s$$'  `
+                         `ssss$$$$$$$$$$$$$$$$$$$$####s.     .$$"$.   , s-
+                           `""""$$$$$$$$$$$$$$$$$$$$#####$$$$$$"     $.$'
+                                 "$$$$$$$$$$$$$$$$$$$$$####s""     .$$$|
+                                  "$$$$$$$$$$$$$$$$$$$$$$$$##s    .$$" $
+                                   $$""$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"   `
+                                  $$"  "$"$$$$$$$$$$$$$$$$$$$$S""""'
+                             ,   ,"     '  $$$$$$$$$$$$$$$$####s
+                             $.          .s$$$$$$$$$$$$$$$$$####"
+                 ,           "$s.   ..ssS$$$$$$$$$$$$$$$$$$$####"
+                 $           .$$$S$$$$$$$$$$$$$$$$$$$$$$$$#####"
+                 Ss     ..sS$$$$$$$$$$$$$$$$$$$$$$$$$$$######""
+                  "$$sS$$$$$$$$$$$$$$$$$$$$$$$$$$$########"
+           ,      s$$$$$$$$$$$$$$$$$$$$$$$$#########""'
+           $    s$$$$$$$$$$$$$$$$$$$$$#######""'      s'         ,
+           $$..$$$$$$$$$$$$$$$$$$######"'       ....,$$....    ,$
+            "$$$$$$$$$$$$$$$######"' ,     .sS$$$$$$$$$$$$$$$$s$$
+              $$$$$$$$$$$$#####"     $, .s$$$$$$$$$$$$$$$$$$$$$$$$s.
+   )          $$$$$$$$$$$#####'      `$$$$$$$$$###########$$$$$$$$$$$.
+  ((          $$$$$$$$$$$#####       $$$$$$$$###"       "####$$$$$$$$$$
+  ) \         $$$$$$$$$$$$####.     $$$$$$###"             "###$$$$$$$$$   s'
+ (   )        $$$$$$$$$$$$$####.   $$$$$###"                ####$$$$$$$$s$$'
+ )  ( (       $$"$$$$$$$$$$$#####.$$$$$###'                .###$$$$$$$$$$"
+ (  )  )   _,$"   $$$$$$$$$$$$######.$$##'                .###$$$$$$$$$$
+ ) (  ( \.         "$$$$$$$$$$$$$#######,,,.          ..####$$$$$$$$$$$"
+(   )$ )  )        ,$$$$$$$$$$$$$$$$$$####################$$$$$$$$$$$"
+(   ($$  ( \     _sS"  `"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$S$$,
+ )  )$$$s ) )  .      .   `$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"'  `$$
+  (   $$$Ss/  .$,    .$,,s$$$$$$##S$$$$$$$$$$$$$$$$$$$$$$$$S""        '
+    \)_$$$$$$$$$$$$$$$$$$$$$$$##"  $$        `$$.        `$$.
+        `"S$$$$$$$$$$$$$$$$$#"      $          `$          `$
+            `"""""""""""""'         '           '           '
+
+<< BALZHUR, un lugar donde la fantasia y el medievo se abren camino entre la
+ brujeria, el dinero y el honor, donde no solo los buenos son heroes o el mas
+fuerte es el mas poderoso. Todo un universo aun por descubrir... >>
+
+
+Basado en SMAUG 1.4 escrito por Thoric (Derek Snider) con Altrag, Blodkai, Haus,
+ Narn, Scryn, Swordbearer, Tricops, Gorog, Rennard, Grish, Fireblade y Nivek.
+
+Originario del MERC 2.1 escrito por Hatchet, Furey y Kahn. Originario del
+ DikuMUD escrito por Hans Staerfeldt, Nyboe, Madsen, Seifert y Hammer.
+
+ Entra el nombre de tu personaje o escribe Nuevo:
+ Cual es tu sexo (H)ombre, (M)ujer o (N)eutral? 
+ 
+Selecciona una profesion, o escribe ayuda [profesion] pasa saber mas sobre
+alguna.
+[Mago Clerigo Ladron Guerrero Vampiro Druida Montaraz Bardo Paladin]
+: 
+Ahora debes escoger una de las siguientes razas:
+
+        ------------------------------------------------
+        |  Stats Maximos  |Fue|Des|Sab|Int|Con|Car|Sue |
+        |-----------------+---+---+---+---+---+---+----|
+        |         Humano  | 23| 23| 23| 23| 23| 23| 23 |
+        |           Elfo  | 21| 25| 23| 25| 22| 25| 24 |
+        |           Hada  | 20| 25| 23| 25| 21| 25| 25 |
+        |     Medio-Elfo  | 22| 24| 22| 25| 22| 24| 23 |
+        |        Gigante  | 25| 20| 22| 21| 25| 20| 21 |
+        |           Drow  | 23| 24| 21| 22| 23| 20| 22 |
+        |          Gnomo  | 20| 25| 25| 25| 21| 24| 25 |
+        ------------------------------------------------
+
+Escoge una raza o escribe ayuda [raza] para saber mas sobre ellas: 
+
+Elegir el nombre es una de las partes mas importantes del juego...
+Estate seguro de escoger un nombre apropiado para el personaje
+con el que vas a jugar, tiene que estar ambientado en el medievo.
+Si eliges un nombre que no es adecuado se te obligara a escoger otro.
+
+Si NO se te ocurre un nombre APROPIADO, escribe GENERAR para que se te
+Muestre un listado de nombres aleatorios para la raza que has escogido.
+Puedes escoger uno de esos.
+
+Por favor escoge el nombre para tu Humano: 
+Estas seguro de querer escoger Aragorn (S/N)? 
+
+
+Ahora debes escoger un password que no sea facil de averiguar. Es aconsejable
+que se componga de numeros y letras.
+Escoge un buen password para Aragorn: 
+Vuelve a escribir el password para confirmarlo: 
+
+
+
+Si tienes otras fichas creadas, es importante que sepas que todas
+deben estar asociadas a la misma cuenta.
+
+Tienes alguna otra ficha creada? (S/N)
+
+
+
+Quieres calcular tus caracteristicas al azar o repartir manualmente
+los puntos? (A/M) 
+
+Tus tiradas son :
+ ------------------------------------------------------
+| Num | Fue | Int | Sab | Des | Con | Car | Sue |  Tot |
+|-----+-----+-----+-----+-----+-----+-----+-----+------|
+|   1 |  16 |  10 |   8 |  12 |  14 |  14 |  12 |   86 |
+|   2 |  15 |  14 |  13 |  15 |  11 |  12 |  10 |   90 |
+|   3 |  18 |   9 |  10 |  15 |  14 |  11 |  15 |   92 |
+|   4 |  16 |  10 |  16 |  13 |  11 |  13 |  17 |   96 |
+|   5 |  14 |  11 |  11 |  15 |  14 |  12 |  14 |   91 |
+|   6 |  15 |  13 |  13 |  12 |  13 |  17 |  10 |   93 |
+|   7 |  13 |  10 |   9 |  14 |  13 |  11 |  13 |   83 |
+|   8 |  14 |  14 |  12 |  17 |  14 |  15 |   9 |   95 |
+|   9 |  17 |  10 |  10 |  14 |  13 |  12 |  14 |   90 |
+|  10 |  14 |  12 |  16 |  15 |   9 |  14 |  16 |   96 |
+|  11 |  12 |  13 |  13 |  13 |  13 |  13 |  17 |   94 |
+|  12 |  16 |  17 |  10 |  13 |  12 |  14 |  16 |   98 |
+|  13 |  18 |  16 |  12 |  11 |  16 |  10 |  11 |   94 |
+|  14 |  16 |  10 |  13 |  16 |   9 |   9 |  14 |   87 |
+|  15 |  14 |  11 |  10 |  14 |  16 |   9 |  11 |   85 |
+|-----|-----|-----|-----|-----|-----|-----|-----|------|
+
+Con qu� numero de tirada quieres quedarte? 
+
+
+Ahora debes indicar una direcci�n de correo electr�nico.
+Es necesaria para que podamos enviarte tu password en caso de p�rdida.
+�Qu� cuenta de correo quieres asociar a tu personaje? 
+
+
+Tu email es cristianquaglio@gmail.com. �Es correcto? (S/N):
+
+
+Pulsa [ENTER]
+
+
+
+   __________________________________________________________________________
+  /                                                                          \
+  |                           BIENVENIDO A BALZHUR                           |
+  |                                                                          |
+  |  - Empezaras en la academia de Darkhaven, una area donde podras          |
+  |    aprender todo lo necesario para aprender a jugar. Si eres nuevo, se   |
+  |    te recomienda que la explores, te sera de gran utilidad.              |
+  |                                                                          |
+  |  - Teclea 'ayuda' para ver una lista de ayudas muy utiles. Si tienes     |
+  |    dudas sobre algo en concreto, puedes preguntar a los jugadores        |
+  |    mas experimentados que te podran aconsejar y asistir.                 |
+  |                                                                          |
+  |  - Visita la web de Balzhur http://www.balzhur.org, ahi encontraras      |
+  |    informacion muy util para aprender a jugar, mapas, direcciones        |
+  |    de lugares donde ir y ayudas de toda clase.                           |
+  |                                                                          |
+  |  - Pasatelo bien mientras estas en Balzhur, esto es un juego para        |
+  |    disfrutar, procura no arruinar la diversion de los demas.             |
+  \__________________________________________________________________________/
+
+
+Pulsa [ENTER] 
+
+
+Bienvenido a Balzhur...
+La Camara de la Pureza [Segura]
+  Te encuentras en una camara muy acogedora, con cortinas de seda banyadas
+por la luz del sol, almohadones de terciopelo que cubren  el suelo y algunos
+relajantes cuadros en las paredes.
+
+Pero lo que mas te llama la atencion, es un CARTEL colgando sobre una 
+puerta al norte, para leerlo escribe MIRAR CARTEL.
+
+Salidas: norte.
+
+Un espiritu facilitador de cuerpos combina almas y carne.
+Bienvenido, Aragorn!
+Has llegado al fabuloso mundo de Balzhur.
+
+<20/20hp 100/100m 100mv 1,325exp> 
+
+
+
+  ------------------------------------------------------------------------------
+ /                                                                              \
+||  Ficha de Aragorn (Personaje Principal).                                     ||
+||------------------------------------------------------------------------------||
+|| FUE      : 14(14)   DES   : 15(15) | Vida      : 24   /24    ( 0%) Regen     ||
+|| INT      : 13(12)   SAB   : 17(16) | Mana      : 103  /103   ( 0%)           ||
+|| CON      : 10(9 )   CAR   : 14(14) | Mov       : 100  /100   ( 0%)           ||
+|| SUE      : 16(16)                  |                                         ||
+||------------------------------------+-----------------------------------------||
+|| Nivel    : 1       Edad   : 17     | Profesion : Mago     Raza: Humano       ||
+|| Hitroll  : 6       Damroll: 4      | Objetos   : 0    /7                     ||
+|| Armadura : 84      Alin   : 0      | Peso      : 9    /170                   ||
+|| Impacto  : 71 %    Da�o   : 4      | Posicion  : de pie                      ||
+|| Esquivar : 12 %    Parada : 12 %   | Estilo    : estandar                    ||
+|| Huida    : 0       Horas  : 0      | Mision    : 0 /15   Quest: 0    (0 /50) ||
+||------------------------------------+-----------------------------------------||
+|| FISIC Da�o/Res/Crit:   0%/  0%/ 3% |            Salvaciones                  ||
+|| MAGIA Da�o/Res/Crit:   0%/  0%/ 2% | Veneno       : 0        Fuego    : 0    ||
+|| CURAS Dar / Recibir:   0%/  0%     | Acido/Paral  : 0        Frio     : 0    ||
+|| EXP : 0             Pract : 0      | Energia/Elec : 0                        ||
+|| ORO : 1,000         Entr  : 0      |                                         ||
+||------------------------------------------------------------------------------||
+|| Te sientes muy bien.                                                         ||
+||------------------------------------------------------------------------------||
+||                        -= Datos de Guerras =-                                ||
+|| Rango           : Plebeyo                     Gloria         : 0    /0       ||
+|| Asesinatos      : 0                           Muertes        : 0             ||
+ \                                                                              /
+  ------------------------------------------------------------------------------

@@ -14,3 +14,7 @@ Tiene cuenta creada? (y/N)
 			crear personaje
 
 elige personaje y entra el juego
+
+Mejorar gestion de password (repetir clave al crear, encriptar en bd)
+comprobar email existe
+hacer marcha atras

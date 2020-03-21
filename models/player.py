@@ -1,10 +1,15 @@
+# -*- coding: utf-8 -*-
+import psycopg2
+from db import DB
+
+
 class Player:
     __name = None
     __race = None
     __profession = None
     __level = 0
 
-    def __init__(self, name, race, profession, level):
+    def __init__(self, name, race, profession, level=0):
         self.__name = name
         self.__race = race
         self.__profession = profession
@@ -36,3 +41,17 @@ class Player:
 
     def __str__(self):
         return self.get_name()
+
+    def save(self):
+        result = False
+        try:
+            sql = '''insert into players (name, race, profession, lvl) values (%s, %s, %s, %s);'''
+            conn = DB.get_connection()
+            cursor = conn.cursor()
+            cursor.execute(sql, (self.get_name(), self.get_race(), self.get_profession(), self.get_level()))
+            conn.commit()
+            result = True
+        except (Exception, psycopg2.DatabaseError) as error:
+            conn.rollback()
+        finally:
+            return result

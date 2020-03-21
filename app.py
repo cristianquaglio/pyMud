@@ -1,53 +1,80 @@
+import sys
 import config
 
 
 class App:
-    __name = None
-    __version = None
-    __author = None
-    __description = None
-    __license = None
-    __ds = None
-    __lang = None
+    __name = ''
+    __version = ''
+    __author = ''
+    __description = ''
+    __license = ''
+    __ds = ''
+    __lang = ''
+    __msg_file_error = 'Error reading configuration file. Try later, please.'
+
+    @staticmethod
+    def msg_error():
+        print(App.__msg_file_error)
 
     @staticmethod
     def get_name():
-        if App.__name is None:
-            App.__name = config.read_params('config/main.ini', 'main')['name']
+        if len(App.__name) is 0:
+            try:
+                App.__name = config.read_params('config/main.ini', 'main')['name']
+            except Exception:
+                App.msg_error()
         return App.__name
 
     @staticmethod
     def get_version():
-        if App.__version is None:
-            App.__version = config.read_params('config/main.ini', 'main')['version']
+        if len(App.__version) is 0:
+            try:
+                App.__version = config.read_params('config/main.ini', 'main')['version']
+            except Exception:
+                App.msg_error()
         return App.__version
 
     @staticmethod
     def get_author():
-        if App.__author is None:
-            App.__author = config.read_params('config/main.ini', 'main')['author']
+        if len(App.__author) is 0:
+            try:
+                App.__author = config.read_params('config/main.ini', 'main')['author']
+            except Exception:
+                App.msg_error()
         return App.__author
 
     @staticmethod
     def get_description():
-        if App.__description is None:
-            App.__description = config.read_params('config/main.ini', 'main')['description']
+        if len(App.__description) is 0:
+            try:
+                App.__description = config.read_params('config/main.ini', 'main')['description']
+            except Exception:
+                App.msg_error()
         return App.__description
 
     @staticmethod
     def get_license():
-        if App.__license is None:
-            App.__license = config.read_params('config/main.ini', 'main')['license']
+        if len(App.__license) is 0:
+            try:
+                App.__license = config.read_params('config/main.ini', 'main')['license']
+            except Exception:
+                App.msg_error()
         return App.__license
 
     @staticmethod
     def get_db_params():
-        if App.__ds is None:
-            App.__ds = config.read_params('config/main.ini', 'data_source')
+        if len(App.__ds) is 0:
+            try:
+                App.__ds = config.read_params('config/main.ini', 'data_source')
+            except Exception:
+                App.msg_error()
         return App.__ds
 
     @staticmethod
     def get_language():
-        if App.__lang is None:
-            App.__lang = config.read_params('config/main.ini', 'location')['language']
+        if len(App.__lang) is 0:
+            try:
+                App.__lang = config.read_params('config/main.ini', 'location')['language']
+            except Exception:
+                App.msg_error()
         return App.__lang
